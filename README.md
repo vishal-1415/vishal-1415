@@ -1,48 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20%26%20Backend%20Developer%20%7C%20Turning%20Data%20into%20Decisions&descAlignY=62&descSize=16" width="100%"/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vishal-1415&label=Profile+Views&color=70a5fd&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/vishal-1415?label=Followers&style=flat-square&color=bf91f3&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20To-AI%2FML%20%26%20Backend%20Roles-70a5fd?style=flat-square&labelColor=0d1117" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vishal+M+%F0%9F%91%8B;AI%2FML+%7C+Backend+%7C+Intelligent+Systems;95.84%25+F1-Score+on+Network+Anomaly+Detection;Building+Systems+That+Think+%F0%9F%A7%A0" alt="Typing SVG" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-class Vishal:
-    name              = "Vishal M"
-    location          = "Chennai, India 🇮🇳"
-    email             = "vishalm1415@gmail.com"
-    linkedin          = "linkedin.com/in/vishalm1415"
-    github            = "github.com/vishal-1415"
-
-    degree            = "B.E. – Electronics & Communication Engineering"
-    university        = "Sathyabama University, Chennai"
-    expected          = "May 2027"
-    cgpa              = 7.4
-
-    stack             = ["Python", "Java", "Scikit-Learn",
-                         "Streamlit", "REST APIs", "MySQL"]
-
-    currentlyLearning = ["Deep Learning", "RAG Pipelines",
-                         "FastAPI", "Advanced NLP"]
-
-    funFact           = "I taught machines to catch intruders 🕵️ — 96.1% accuracy"
-
-    def motto(self):
-        return "Every anomaly in data is a story waiting to be detected."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Developer%20%7C%20Backend%20Developer%20%7C%20ECE%20Student&descAlignY=62&descSize=16" width="100%"/> <div align="center"> <img src="https://komarev.com/ghpvc/?username=vishal-1415&label=Profile+Views&color=70a5fd&style=flat-square" /> &nbsp; <img src="https://img.shields.io/github/followers/vishal-1415?label=Followers&style=flat-square&color=bf91f3&labelColor=0d1117" /> &nbsp; <img src="https://img.shields.io/badge/Open%20To-AI%2FML%20%26%20Backend%20Roles-70a5fd?style=flat-square&labelColor=0d1117" /> <br><br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vishal+M+%F0%9F%91%8B;AI%2FML+Developer+%7C+Backend+Developer;95.84%25+F1-Score+Network+Anomaly+Detection;Building+Intelligent+Systems+%F0%9F%A7%A0" /> ### AI/ML Enthusiast • Backend Developer • ECE Student 📍 Chennai, India • 🎓 Sathyabama University • 📧 vishalm1415@gmail.com </div> --- # 👨‍💻 About Me <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> ```python class Vishal: name = "Vishal M" location = "Chennai, India 🇮🇳" degree = "B.E. Electronics & Communication Engineering" university = "Sathyabama University" graduation = "May 2027" cgpa = 7.4 interests = [ "Artificial Intelligence", "Machine Learning", "Backend Development", "Network Security" ] tech_stack = [ "Python", "Java", "Scikit-Learn", "FastAPI", "MySQL", "Streamlit" ] currently_learning = [ "Deep Learning", "Natural Language Processing", "FastAPI", "Network Security" ] fun_fact = "Built a Network Anomaly Detection System with 95.84% F1-Score" def motto(self): return "Turning data into decisions."
 ```
 
 <br clear="right"/>
