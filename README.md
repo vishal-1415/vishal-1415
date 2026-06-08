@@ -1,140 +1,89 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20%26%20Backend%20Developer%20%7C%20Turning%20Data%20into%20Decisions&descAlignY=62&descSize=16" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:414868&height=200&section=header&text=Hey%2C%20I'm%20RK%20👋&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=AI%2FML%20%7C%20Backend%20%7C%20Intelligent%20Systems&descAlignY=58&descSize=18&descColor=7aa2f7&animation=fadeIn" />
+<img src="https://komarev.com/ghpvc/?username=vishal-1415&label=Profile+Views&color=70a5fd&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/vishal-1415?label=Followers&style=flat-square&color=bf91f3&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-AI%2FML%20%26%20Backend%20Roles-70a5fd?style=flat-square&labelColor=0d1117" />
 
-<img src="https://komarev.com/ghpvc/?username=iamrk-dev&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/iamrk-dev?label=Followers&style=flat-square&color=7aa2f7&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Backend-7aa2f7?style=flat-square&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/University-Sathyabama-bb9af7?style=flat-square&labelColor=0d1117" />
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vishal+M+%F0%9F%91%8B;AI%2FML+%7C+Backend+%7C+Intelligent+Systems;95.84%25+F1-Score+on+Network+Anomaly+Detection;Building+Systems+That+Think+%F0%9F%A7%A0" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=false&width=700&lines=Aspiring+AI%2FML+%26+Backend+Developer;Building+Intelligent+Detection+Systems;Machine+Learning+%7C+Python+%7C+Java;Turning+Data+into+Decisions+%F0%9F%A7%A0" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🧠 About Me
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class Developer:
-    name        = "RK"
-    university  = "Sathyabama University, Chennai"
-    degree      = "B.E. – Electronics & Communication Engineering"
-    year        = "2023 – Expected May 2027"
-    cgpa        = 7.4
+class Vishal:
+    name              = "Vishal M"
+    location          = "Chennai, India 🇮🇳"
+    email             = "vishalm1415@gmail.com"
+    linkedin          = "linkedin.com/in/vishalm1415"
+    github            = "github.com/vishal-1415"
 
-    focus       = ["AI/ML", "Backend Development", "Intelligent Network Systems"]
-    currently   = "Building anomaly detection & intelligent backend systems"
-    learning    = ["Deep Learning", "Advanced NLP", "RAG Pipelines"]
-    open_to     = ["AI/ML Roles", "Backend Development", "Research Internships"]
+    degree            = "B.E. – Electronics & Communication Engineering"
+    university        = "Sathyabama University, Chennai"
+    expected          = "May 2027"
+    cgpa              = 7.4
 
-    fun_fact    = "I make networks confess their anomalies 🕵️"
+    stack             = ["Python", "Java", "Scikit-Learn",
+                         "Streamlit", "REST APIs", "MySQL"]
+
+    currentlyLearning = ["Deep Learning", "RAG Pipelines",
+                         "FastAPI", "Advanced NLP"]
+
+    funFact           = "I taught machines to catch intruders 🕵️ — 96.1% accuracy"
+
+    def motto(self):
+        return "Every anomaly in data is a story waiting to be detected."
 ```
 
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛡️ AI-Based Network Anomaly Detection
-**Tech:** `Python` `Scikit-Learn` `Random Forest` `Isolation Forest` `Streamlit`
-
-- Intrusion detection system on **CICIDS2017** dataset
-- **95.84% F1-Score** | **96.1% Accuracy** on unseen data
-- Real-time traffic simulation + batch CSV analysis dashboard
-- Features: packet counts, TCP flags, flow statistics, protocol info
-
-[![Repo](https://img.shields.io/badge/View%20Repo-7aa2f7?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/iamrk-dev)
-
-</td>
-<td width="50%">
-
-### 📡 RFID-Based Attendance & Reporting System
-**Tech:** `ESP32` `RC522 RFID` `Google Apps Script` `REST APIs`
-
-- ESP32 + RC522 hardware-based attendance capture
-- Automated email reports triggered by Apps Script
-- Robust validation, error-handling & structured data storage
-- Clean backend logic for count tracking & formatted output
-
-[![Repo](https://img.shields.io/badge/View%20Repo-bb9af7?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/iamrk-dev)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌾 Agriculture Information & Advisory System
-**Tech:** `Java` `REST APIs` `JSON Processing` `RAG Fundamentals`
-
-- Multi-source integration: weather, market rates, agri-data APIs
-- PDF-based information extraction (RAG concept)
-- Modular architecture for clean data flow & response logic
-- Structured parsing + rule-based response generation
-
-</td>
-<td width="50%">
-
-### ⚡ Hardware Engineering Internship
-**@ KPS Power Technologies, Chennai**
-
-- Transformer manufacturing & UPS unit assembly
-- Soldering skills + Power Electronics fundamentals
-- Inverter system architecture & operational principles
-- Quality assurance & compliance procedures
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI / Machine Learning
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=7aa2f7)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=f7768e)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=bb9af7)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=7aa2f7)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=f7768e)
+### 🔤 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### 💻 Programming
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=e0af68)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=7aa2f7)
-![OOP](https://img.shields.io/badge/OOP-0d1117?style=for-the-badge&logo=buffer&logoColor=9ece6a)
-![DSA](https://img.shields.io/badge/DSA-0d1117?style=for-the-badge&logo=leetcode&logoColor=e0af68)
+### 🤖 AI / ML Frameworks
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ### 🔧 Backend & APIs
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=9ece6a)
-![JSON](https://img.shields.io/badge/JSON-0d1117?style=for-the-badge&logo=json&logoColor=7aa2f7)
-![Google Apps Script](https://img.shields.io/badge/Apps%20Script-0d1117?style=for-the-badge&logo=google&logoColor=f7768e)
-![Maven](https://img.shields.io/badge/Maven-0d1117?style=for-the-badge&logo=apachemaven&logoColor=e0af68)
+![REST API](https://img.shields.io/badge/REST%20APIs-70a5fd?style=flat-square&logo=fastapi&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 ### 🌐 Networking & Security
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0d1117?style=for-the-badge&logo=cisco&logoColor=7aa2f7)
-![IDS](https://img.shields.io/badge/Intrusion%20Detection-0d1117?style=for-the-badge&logo=shield&logoColor=f7768e)
-![Network Analysis](https://img.shields.io/badge/Network%20Analysis-0d1117?style=for-the-badge&logo=wireshark&logoColor=bb9af7)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square&logo=cisco&logoColor=white)
+![IDS](https://img.shields.io/badge/Intrusion%20Detection-bf91f3?style=flat-square&logo=shield&logoColor=white)
+![Network Analysis](https://img.shields.io/badge/Network%20Analysis-38bdae?style=flat-square&logo=wireshark&logoColor=white)
 
-### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=7aa2f7)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=e0af68)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c0caf5)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=7aa2f7)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-0d1117?style=for-the-badge&logo=intellijidea&logoColor=bb9af7)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=f7768e)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=e0af68)
+### 🗄️ Databases & Storage
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
+### 🧰 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 ---
 
@@ -142,21 +91,23 @@ class Developer:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamrk-dev&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=414868&icon_color=7aa2f7&title_color=c0caf5&text_color=a9b1d6&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
+<a href="https://github.com/vishal-1415">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishal-1415&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrk-dev&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=414868&title_color=c0caf5&text_color=a9b1d6&hide_border=false&langs_count=8" height="170" />
+<a href="https://github.com/vishal-1415">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-1415&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</a>
 
 </div>
 
-<div align="center">
+---
 
-<img src="https://streak-stats.demolab.com?user=iamrk-dev&theme=tokyonight&background=0d1117&border=414868&ring=7aa2f7&fire=f7768e&currStreakLabel=c0caf5&sideLabels=a9b1d6&dates=565f89&currStreakNum=c0caf5&sideNums=bb9af7" height="170" />
-
-</div>
+## 🔥 Streak Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamrk-dev&theme=tokyonight&no-bg=true&no-frame=false&column=7&margin-w=8&margin-h=8" />
+<img src="https://streak-stats.demolab.com?user=vishal-1415&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 
 </div>
 
@@ -166,20 +117,93 @@ class Developer:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrk-dev&bg_color=0d1117&color=7aa2f7&line=414868&point=bb9af7&area=true&area_color=1a1b27&hide_border=false&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-1415&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏅 Certifications
+## 🏆 Trophy Wall
 
-| Certificate | Issuer |
-|---|---|
-| 🎓 Career Edge | TCS iON |
-| ☕ Java & Data Structures and Algorithms | Infosys Springboard |
-| 🧩 DSA with Java Bootcamp | LetsUpgrade |
-| 📡 SDR Workshop (Airspy, RTL-SDR) | SDR Workshop |
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vishal-1415&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details>
+<summary><b>⚡ KPS Power Technologies — Hardware Engineering Intern &nbsp;|&nbsp; Chennai &nbsp;|&nbsp; Jul 2025 – Jul 2025</b></summary>
+
+<br/>
+
+> `Power Electronics` `Transformer Manufacturing` `UPS Assembly` `Inverter Systems` `Soldering` `Quality Assurance`
+
+- Received hands-on training in **transformer manufacturing** and **UPS unit assembly** in an industrial setting.
+- Developed **soldering skills** and applied Power Electronics fundamentals including inverter systems and control circuits.
+- Gained practical exposure to **inverter system architecture** and operational principles.
+- Practiced **quality assurance procedures** to ensure product reliability and compliance standards.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|:---|:---|:---|
+| 🛡️ **[AI-Based Network Anomaly Detection](https://github.com/vishal-1415)** | `Python` `Scikit-Learn` `Random Forest` `Isolation Forest` `Streamlit` | **95.84% F1-Score** · **96.1% Accuracy** on CICIDS2017 · Real-time traffic simulation dashboard · Batch CSV analysis · Packet/TCP flag feature engineering |
+| 📡 **[RFID Attendance & Reporting System](https://github.com/vishal-1415)** | `ESP32` `RC522 RFID` `Google Apps Script` `REST APIs` | Automated email reports via Apps Script triggers · Hardware-based RFID capture · Validated count tracking · Error-handling & structured storage |
+| 🌾 **Agriculture Information & Advisory System** | `Java` `REST APIs` `JSON Processing` `RAG Fundamentals` | Multi-source API integration (weather + market rates) · PDF-based info retrieval (RAG concept) · Modular rule-based response generation |
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+| 🏆 | Achievement | Details |
+|:---:|:---|:---|
+| 🎯 | **ML Model Performance** | 95.84% F1-Score & 96.1% Accuracy — Network Anomaly Detection (CICIDS2017) |
+| 🎓 | **TCS iON Career Edge** | Career readiness certification by Tata Consultancy Services |
+| ☕ | **Infosys Springboard** | Java & Data Structures and Algorithms certification |
+| 🧩 | **LetsUpgrade — DSA with Java Bootcamp** | Intensive DSA bootcamp with Java |
+| 📡 | **SDR Workshop** | Software Defined Radio workshop — Airspy & RTL-SDR hands-on |
+| ⚡ | **Hardware Internship** | Industrial training in Power Electronics & Embedded Systems @ KPS Power Technologies |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Duration | Score |
+|:---:|:---|:---:|:---:|
+| 🎓 B.E. – Electronics & Communication Engineering | Sathyabama University, Chennai | 2023 – May 2027 | **CGPA: 7.4** |
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+```
+🧠 Deep Learning        →  Neural Networks, CNNs, RNNs, Backpropagation
+🔍 RAG Pipelines        →  Embeddings, Vector Stores, LangChain, Retrieval Augmentation
+⚡ FastAPI              →  Async Python APIs, Pydantic, OpenAPI, Deployment
+🗣️ Advanced NLP         →  Transformers, Tokenization, Fine-tuning LLMs
+🔒 Network Security     →  Advanced IDS, Threat Modelling, SIEM Concepts
+☁️ Cloud Fundamentals   →  AWS / GCP basics, Model Deployment, MLOps Intro
+```
 
 ---
 
@@ -187,18 +211,16 @@ class Developer:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-iamrk--dev-0d1117?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b27)](https://github.com/iamrk-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1b27)](https://linkedin.com/in/iamrk-dev)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-0d1117?style=for-the-badge&logo=gmail&logoColor=f7768e&labelColor=1a1b27)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishalm1415-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalm1415)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-vishal--1415-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishal-1415)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-vishalm1415%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vishalm1415@gmail.com)
+
+<br/>
+
+> *"Every anomaly in data is a story waiting to be detected."*
 
 </div>
 
----
-
-<div align="center">
-
-> *"Every anomaly in the data is a story waiting to be detected."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:1a1b27,100:0d1117&height=120&section=footer&text=Open%20to%20Opportunities&fontSize=20&fontColor=7aa2f7&fontAlignY=65&animation=fadeIn" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
