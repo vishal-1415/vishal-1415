@@ -1,16 +1,3 @@
-<a href="https://github.com/vishal-1415">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20%26%20Backend%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=16" width="100%"/>
-</a>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI%2FML+%7C+Backend+Developer+%F0%9F%A4%96;Network+Anomaly+Detection+Specialist+%F0%9F%94%91;Java+%7C+Python+%7C+REST+APIs+%F0%9F%9A%80;Open+to+Collaborate+%26+Build+%F0%9F%8C%90" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishal-1415&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-</div>
 
 ---
 
@@ -95,16 +82,6 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/vishal-1415">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishal-1415&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Vishal's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/vishal-1415">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-1415&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
-</div>
 
 ---
 
